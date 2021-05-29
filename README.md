@@ -6,4 +6,4 @@ https://github.com/kzzanuda/ScanLFI - Легкий и настраеваемый
 https://github.com/kzzanuda/CesarEncryption - Два варианта скриптов с настраеваемым словарем для декрипты ROT# (Шифр Цезаря)
 https://github.com/kzzanuda/EnigmaBrootforce - Достаточно мощный инструмент для Brootforce немецкой машины шифрования Enigma
 https://github.com/kzzanuda/SocketOnPython - Если в NetCat надо автоматизировать ответ серверу, или еще чего, вот уже рабочий сокер на питоне
-
+https://github.com/kzzanuda/findBinaryInAlfa - Смотрит на прозрачность пикселей, составляет из неё бинарную последовательность
