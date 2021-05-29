@@ -3,6 +3,8 @@
 Здесь можно найти разные инструменты, собранные командой Broadcasters:
 
 
+https://www.asciitohex.com/ - классный конвертер текста (бинарка, rot13, hex, base64, url, asii) всё во всё и сразу!
+
 https://github.com/kzzanuda/ScanLFI - Легкий и настраеваемый сканер LFI на Python, но работает долго
 
 https://github.com/kzzanuda/CesarEncryption - Два варианта скриптов с настраеваемым словарем для декрипты ROT# (Шифр Цезаря)
