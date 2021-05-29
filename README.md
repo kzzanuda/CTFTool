@@ -12,3 +12,5 @@ https://github.com/kzzanuda/EnigmaBrootforce - Достаточно мощный
 https://github.com/kzzanuda/SocketOnPython - Если в NetCat надо автоматизировать ответ серверу, или еще чего, вот уже рабочий сокер на питоне
 
 https://github.com/kzzanuda/findBinaryInAlfa - Смотрит на прозрачность пикселей, составляет из неё бинарную последовательность
+
+https://requestbin.com/ - API для ловли GET запросов по адресу, полезно для эксплуатации XSS, если лень делать свой хост
