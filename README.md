@@ -30,3 +30,8 @@ https://github.com/hellman/xortool - Работа с шифрованием на
 https://github.com/ius/rsatool - калькулятор параметров ключей RSA.
 
 https://xsser.03c8.net/ - сканер XSS.
+
+
+## OSINT:
+
+https://osinthub.org/ - удобный бот, который подскажет где пользователь был, и как его искать дальше, очень много ссылок для дальнейшего пробива.
