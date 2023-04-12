@@ -31,7 +31,10 @@ https://github.com/ius/rsatool - калькулятор параметров к�
 
 https://xsser.03c8.net/ - сканер XSS.
 
+JSfuck:
 https://www.dcode.fr/jsfuck-language - JSfuck Decoder
+
+https://enkhee-osiris.github.io/Decoder-JSFuck/ - другой JSfuck Decoder
 
 
 ## OSINT:
