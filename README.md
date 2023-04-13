@@ -31,6 +31,8 @@ https://github.com/ius/rsatool - калькулятор параметров к�
 
 https://xsser.03c8.net/ - сканер XSS.
 
+https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html - pkcrack взлом PKZip если известен PlainText.
+
 JSfuck:
 https://www.dcode.fr/jsfuck-language - JSfuck Decoder
 
